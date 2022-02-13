@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("happy birthday");
         System.out.println("deneme");
+        System.out.println("deneme123");
+
     }
 }
